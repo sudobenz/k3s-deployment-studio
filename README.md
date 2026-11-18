@@ -1,6 +1,17 @@
 # K3s Deployment Studio
 
 Application de bureau native (PySide6) pour préparer et orchestrer le déploiement initial de clusters K3s HA sur Proxmox VE avec Terraform et Ansible.
+<!-- License badge: place this near the top of the README -->
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
+
+<!-- License section: place this near the end of the README -->
+## License
+
+K3s Deployment Studio is licensed under the [Apache License, Version 2.0](LICENSE).
+
+Copyright © 2026 sudobenz.
+
+Unless otherwise stated, this license applies to the original project files authored for this repository. Third-party components and assets remain subject to their respective licenses and notices.
 
 ## Fonctionnalités du MVP
 
