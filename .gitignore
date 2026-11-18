@@ -1,0 +1,43 @@
+# Python environments and generated artifacts
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Generated deployment workspace and Terraform state
+workspace/
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+*.tfvars.json
+*.auto.tfvars
+*.auto.tfvars.json
+tfplan
+*.tfplan
+
+# Local environment files and credentials
+.env
+.env.*
+!.env.example
+secrets*
+**/secrets.env
+**/secrets.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keytab
+*.kubeconfig
+kubeconfig
+
+# Local certificates, logs and editor files
+*.log
+.DS_Store
+*.swp
+
+# Kits applicatifs distribués séparément (sélectionnés depuis l'interface)
+kits/*.zip
+kits/**/*.zip

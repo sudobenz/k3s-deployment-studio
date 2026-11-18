@@ -1,0 +1,5 @@
+name: debian-cloud-init-template
+method: cloud-init-template
+root_lv: 100%FREE
+longhorn_disk: separate-disk
+status: qualification-required

@@ -1,0 +1,1 @@
+Une ISO custom doit être accompagnée d'un profil unattended compatible avec son installateur. Décrire la méthode, le fichier de réponse, les paramètres kernel/boot, le mode console et la procédure de détection de fin d'installation. Aucun déploiement automatique n'est autorisé tant que ces éléments ne sont pas validés.
