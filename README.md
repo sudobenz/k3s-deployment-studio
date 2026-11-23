@@ -13,6 +13,10 @@ Copyright © 2026 sudobenz.
 
 Unless otherwise stated, this license applies to the original project files authored for this repository. Third-party components and assets remain subject to their respective licenses and notices.
 
+## Demo
+
+![Studio](demo/Animation_K3S_Studio.gif)
+
 ## Fonctionnalités du MVP
 
 - Interface desktop native, sans serveur Web ni navigateur intégré.
